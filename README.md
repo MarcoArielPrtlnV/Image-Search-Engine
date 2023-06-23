@@ -1,4 +1,4 @@
-# Wather App.
+# Image Search Engine.
 
 Image search Engine using HTML, CSS and JS,  Fetch and display Images from API using JavaScript.
 
